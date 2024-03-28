@@ -1,0 +1,2 @@
+making the changes in the file
+so that can execute 'git status' , 'git add' and 'git commit' command.
